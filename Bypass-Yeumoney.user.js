@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Bypass Yeumoney V2.5
+// @name         Bypass Yeumoney V2
 // @namespace    http://tampermonkey.net/
-// @version      2.5
+// @version      2.6
 // @description  Bypass Yeumoney
 // @author       Shared by phantruong
 // @match        https://yeumoney.com/*

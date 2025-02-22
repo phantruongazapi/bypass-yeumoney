@@ -5,7 +5,7 @@
 // @description  Bypass Yeumoney
 // @author       Shared by phantruong
 // @match        https://yeumoney.com/*
-// @require      https://github.com/phantruongazapi/bypass-yeumoney/raw/refs/heads/main/Bypass-Yeumoney.user.js 
+// @require      https://github.com/phantruongazapi/bypass-yeumoney/raw/refs/heads/main/Bypass-Yeumoney.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
 // @grant        GM_getValue

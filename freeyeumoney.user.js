@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bypass Yeumoney free
 // @namespace    http://tampermonkey.net/
-// @version      2.6.4
+// @version      2.6.6
 // @description  Bypass Yeumoney free
 // @require      https://github.com/phantruongazapi/bypass-yeumoney/raw/refs/heads/main/free.js
 // @updateURL    https://github.com/phantruongazapi/bypass-yeumoney/raw/refs/heads/main/freeyeumoney.user.js

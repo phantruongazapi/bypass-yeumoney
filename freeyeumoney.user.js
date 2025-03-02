@@ -6,7 +6,7 @@
 // @require      https://github.com/phantruongazapi/bypass-yeumoney/raw/refs/heads/main/free.js
 // @updateURL    https://github.com/phantruongazapi/bypass-yeumoney/raw/refs/heads/main/freeyeumoney.user.js
 // @downloadURL  https://github.com/phantruongazapi/bypass-yeumoney/raw/refs/heads/main/freeyeumoney.user.js
-// @author       script by phantruong
+// @author       bypass yeumoney
 // @match        https://yeumoney.com/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
